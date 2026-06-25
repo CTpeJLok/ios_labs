@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "React Native 2026",
+    "date": "25.06.2026",
+    "author": "OpenAI",
+    "text": "Вышло очередное обновление React Native с улучшенной производительностью."
+  },
+  {
+    "id": 2,
+    "title": "Expo SDK",
+    "date": "24.06.2026",
+    "author": "Expo Team",
+    "text": "Представлена новая версия Expo SDK."
+  },
+  {
+    "id": 3,
+    "title": "JavaScript",
+    "date": "23.06.2026",
+    "author": "ECMA",
+    "text": "Опубликованы предложения для следующей версии JavaScript."
+  }
+]
